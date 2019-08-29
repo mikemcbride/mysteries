@@ -1,0 +1,13 @@
+{
+  "name": "mysteries",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.6.0",
+    "gridsome-plugin-tailwindcss": "^2.2.19"
+  }
+}

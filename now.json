@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "mysteries",
+  "alias": "mysteries.mcbride.tech",
+  "builds": [{ "src": "package.json", "use": "@now/static-build" }]
+}
